@@ -1,6 +1,6 @@
 {
   "name": "angular-weui",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "scripts": {
     "install:bower": "bower install",
     "dev": "gulp serve",
